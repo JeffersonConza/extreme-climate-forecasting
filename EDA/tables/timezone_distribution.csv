@@ -1,0 +1,33 @@
+city_name,timezone,count,tz_hours,expected
+Ambato,-18000,401100,-5.0,✅
+Ambato,-14400,1656,-4.0,⚠️  UNEXPECTED
+Cuenca,-18000,401083,-5.0,✅
+Cuenca,-14400,1659,-4.0,⚠️  UNEXPECTED
+Esmeraldas,-18000,400080,-5.0,✅
+Esmeraldas,-14400,1656,-4.0,⚠️  UNEXPECTED
+Guayaquil,-18000,403175,-5.0,✅
+Guayaquil,-14400,1688,-4.0,⚠️  UNEXPECTED
+Ibarra,-18000,399927,-5.0,✅
+Ibarra,-14400,1656,-4.0,⚠️  UNEXPECTED
+Lago Agrio,-18000,400185,-5.0,✅
+Lago Agrio,-14400,1655,-4.0,⚠️  UNEXPECTED
+Loja,-18000,400545,-5.0,✅
+Loja,-14400,1658,-4.0,⚠️  UNEXPECTED
+Machala,-18000,400587,-5.0,✅
+Machala,-14400,1656,-4.0,⚠️  UNEXPECTED
+Manta,-18000,400111,-5.0,✅
+Manta,-14400,1655,-4.0,⚠️  UNEXPECTED
+Puerto Morona,-18000,399841,-5.0,✅
+Puerto Morona,-14400,1655,-4.0,⚠️  UNEXPECTED
+Puyo,-18000,401697,-5.0,✅
+Puyo,-14400,1659,-4.0,⚠️  UNEXPECTED
+Quevedo,-18000,400466,-5.0,✅
+Quevedo,-14400,1655,-4.0,⚠️  UNEXPECTED
+Quito,-18000,409439,-5.0,✅
+Quito,-14400,1673,-4.0,⚠️  UNEXPECTED
+Santa Cruz Island,-21600,338468,-6.0,✅
+Santa Cruz Island,-18000,63028,-5.0,⚠️  UNEXPECTED
+Santo Domingo,-18000,401394,-5.0,✅
+Santo Domingo,-14400,1655,-4.0,⚠️  UNEXPECTED
+Zamora,-18000,399841,-5.0,✅
+Zamora,-14400,1655,-4.0,⚠️  UNEXPECTED

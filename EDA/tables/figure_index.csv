@@ -1,0 +1,22 @@
+filename,section,description
+03_missingness_bar.png,03,missingness bar
+03_missingness_matrix.png,03,missingness matrix
+04_annual_coverage_heatmap.png,04,annual coverage heatmap
+04_max_gap_per_city.png,04,max gap per city
+04_records_per_city.png,04,records per city
+06_boxplots_by_city.png,06,boxplots by city
+06_diurnal_patterns.png,06,diurnal patterns
+06_histograms_all_vars.png,06,histograms all vars
+06_monthly_temp_per_city.png,06,monthly temp per city
+06_seasonal_patterns.png,06,seasonal patterns
+07_annual_block_maxima_temp.png,07,annual block maxima temp
+07_mean_excess_plots.png,07,mean excess plots
+07_monthly_block_maxima_temp.png,07,monthly block maxima temp
+07_survival_tails.png,07,survival tails
+08_pot_exceedances_temp.png,08,pot exceedances temp
+09_correlation_heatmap.png,09,correlation heatmap
+09_pair_plot.png,09,pair plot
+10_weather_categories.png,10,weather categories
+10_weather_composition_by_city.png,10,weather composition by city
+11_spatial_map.png,11,spatial map
+12_long_term_temp_trend.png,12,long term temp trend

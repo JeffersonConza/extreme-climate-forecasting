@@ -1,0 +1,80 @@
+city_name,variable,q95_threshold,total_exceedance_hours,mean_exceedances_per_month
+Ambato,temp,19.16,20065,36.42
+Ambato,rain_1h,1.57,9232,16.79
+Ambato,rain_3h,4.19,6,6.0
+Ambato,wind_speed,3.11,19992,36.28
+Ambato,wind_gust,9.83,414,5.67
+Cuenca,temp,22.67,20081,36.44
+Cuenca,rain_1h,1.64,7215,13.12
+Cuenca,rain_3h,2.473,6,6.0
+Cuenca,wind_speed,4.63,19632,35.63
+Cuenca,wind_gust,11.3,79,1.11
+Esmeraldas,temp,30.14,19957,36.22
+Esmeraldas,rain_1h,2.26,5792,10.53
+Esmeraldas,rain_3h,1.0,0,0.0
+Esmeraldas,wind_speed,5.76,19959,36.22
+Esmeraldas,wind_gust,10.8,9,0.6
+Guayaquil,temp,29.46,20173,36.61
+Guayaquil,rain_1h,2.45,6687,12.16
+Guayaquil,wind_speed,5.7,16354,29.68
+Guayaquil,wind_gust,10.3,191,0.91
+Ibarra,temp,22.96,19942,36.19
+Ibarra,rain_1h,2.21,6730,12.24
+Ibarra,rain_3h,4.19,6,6.0
+Ibarra,wind_speed,2.61,20031,36.35
+Ibarra,wind_gust,4.0,15,15.0
+Lago Agrio,temp,30.37,20071,36.43
+Lago Agrio,rain_1h,2.85,8251,15.0
+Lago Agrio,rain_3h,3.012,3,3.0
+Lago Agrio,wind_speed,1.93,20028,36.35
+Lago Agrio,wind_gust,4.5,11,2.75
+Loja,temp,21.76,20009,36.31
+Loja,rain_1h,1.78,5984,10.88
+Loja,rain_3h,4.0,0,0.0
+Loja,wind_speed,4.92,20071,36.43
+Loja,wind_gust,13.9,278,2.7
+Machala,temp,27.8,20049,36.39
+Machala,rain_1h,1.8,6680,12.15
+Machala,rain_3h,1.5,0,0.0
+Machala,wind_speed,3.6,19790,35.92
+Machala,wind_gust,3.13,176,16.0
+Manta,temp,29.0,19992,36.28
+Manta,rain_1h,1.8,2097,3.91
+Manta,rain_3h,1.0,3,3.0
+Manta,wind_speed,6.2,13820,25.08
+Manta,wind_gust,0.0,282,2.69
+Puerto Morona,temp,30.27,20019,36.33
+Puerto Morona,rain_1h,2.41,7312,13.29
+Puerto Morona,rain_3h,4.88,3,3.0
+Puerto Morona,wind_speed,1.35,19455,35.31
+Puerto Morona,wind_gust,2.62,15,15.0
+Puyo,temp,26.06,20050,36.39
+Puyo,rain_1h,2.05,7884,14.33
+Puyo,rain_3h,4.185,6,6.0
+Puyo,wind_speed,2.1,19624,35.62
+Puyo,wind_gust,1.9,85,2.93
+Quevedo,temp,27.22,19999,36.3
+Quevedo,rain_1h,3.98,12368,22.49
+Quevedo,rain_3h,2.56,3,1.5
+Quevedo,wind_speed,2.22,19845,36.02
+Quevedo,wind_gust,2.748,172,5.93
+Quito,temp,18.0,20517,37.24
+Quito,rain_1h,2.2,8854,16.1
+Quito,rain_3h,5.236,9,9.0
+Quito,wind_speed,5.1,14651,26.59
+Quito,wind_gust,13.4,183,0.82
+Santa Cruz Island,temp,22.66,19925,36.16
+Santa Cruz Island,rain_1h,2.31,2236,4.59
+Santa Cruz Island,rain_3h,1.0,0,0.0
+Santa Cruz Island,wind_speed,6.34,20022,36.34
+Santa Cruz Island,wind_gust,6.43,15,15.0
+Santo Domingo,temp,26.1,20034,36.36
+Santo Domingo,rain_1h,2.28,9464,17.21
+Santo Domingo,rain_3h,3.25,5,2.5
+Santo Domingo,wind_speed,2.58,19839,36.01
+Santo Domingo,wind_gust,4.133,39,3.25
+Zamora,temp,30.26,20001,36.3
+Zamora,rain_1h,1.5,8422,15.31
+Zamora,rain_3h,2.729,6,6.0
+Zamora,wind_speed,2.71,19853,36.03
+Zamora,wind_gust,3.13,161,14.64
