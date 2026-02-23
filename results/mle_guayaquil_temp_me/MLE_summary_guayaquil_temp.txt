@@ -1,0 +1,60 @@
+================================================================================
+PRELIMINARY EVT RESULTS (Method 1: GEV via MLE)
+Extreme Value Analysis - Ecuador Climate Data
+================================================================================
+
+DATASET INFORMATION
+--------------------------------------------------------------------------------
+Source: /content/drive/MyDrive/extreme-climate-forecasting/data/data_clima_clean.parquet
+City: Guayaquil
+Variable: Temperature (temp)
+Period: 1978-12-31 to 2024-10-31
+Total observations: 404,863
+
+BLOCK MAXIMA
+--------------------------------------------------------------------------------
+Block type: Monthly maxima
+Number of blocks: 551
+Range: [26.15, 34.90] °C
+Mean: 31.08 °C
+Std: 1.63 °C
+
+GEV PARAMETERS (Maximum Likelihood Estimation)
+--------------------------------------------------------------------------------
+μ (location) = 30.5668 °C
+σ (scale)    = 1.6844 °C
+ξ (shape)    = -0.3595
+
+INTERPRETATION
+--------------------------------------------------------------------------------
+Type: Weibull (ξ < 0)
+Tail behavior: Bounded tail - finite upper limit
+Upper endpoint: ≈ 35.25 °C
+
+RETURN LEVELS (Temperature exceeded once every N years)
+--------------------------------------------------------------------------------
+ 10-year return level: 34.41 °C
+ 20-year return level: 34.60 °C
+ 50-year return level: 34.78 °C
+100-year return level: 34.89 °C
+
+QUICK SUMMARY FOR SLIDES
+--------------------------------------------------------------------------------
+GEV (MLE): mu=30.567, sigma=1.684, xi=-0.359
+Return levels: 10y=34.41, 20y=34.60, 50y=34.78, 100y=34.89 (°C)
+Endpoint: ≈35.25°C
+
+OUTPUT FILES
+--------------------------------------------------------------------------------
+1. Q-Q plot: qq_plot_guayaquil_temp.png
+2. Return level plot: return_level_plot_guayaquil_temp.png
+3. Histogram: histogram_fitted_gev_guayaquil_temp.png
+4. Exploratory: monthly_maxima_exploratory_guayaquil_temp.png
+
+================================================================================
+Generated: 2026-02-23 09:38:07
+City: Guayaquil
+Variable: Temperature
+Author: Jefferson Conza
+Supervisor: Prof. Saba Infante
+================================================================================

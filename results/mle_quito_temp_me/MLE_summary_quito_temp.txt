@@ -1,0 +1,60 @@
+================================================================================
+PRELIMINARY EVT RESULTS (Method 1: GEV via MLE)
+Extreme Value Analysis - Ecuador Climate Data
+================================================================================
+
+DATASET INFORMATION
+--------------------------------------------------------------------------------
+Source: /content/drive/MyDrive/extreme-climate-forecasting/data/data_clima_clean.parquet
+City: Quito
+Variable: Temperature (temp)
+Period: 1978-12-31 to 2024-10-31
+Total observations: 411,112
+
+BLOCK MAXIMA
+--------------------------------------------------------------------------------
+Block type: Monthly maxima
+Number of blocks: 551
+Range: [13.36, 25.39] °C
+Mean: 20.40 °C
+Std: 1.89 °C
+
+GEV PARAMETERS (Maximum Likelihood Estimation)
+--------------------------------------------------------------------------------
+μ (location) = 19.6295 °C
+σ (scale)    = 1.6734 °C
+ξ (shape)    = -0.1373
+
+INTERPRETATION
+--------------------------------------------------------------------------------
+Type: Weibull (ξ < 0)
+Tail behavior: Bounded tail - finite upper limit
+Upper endpoint: ≈ 31.82 °C
+
+RETURN LEVELS (Temperature exceeded once every N years)
+--------------------------------------------------------------------------------
+ 10-year return level: 25.50 °C
+ 20-year return level: 26.07 °C
+ 50-year return level: 26.75 °C
+100-year return level: 27.21 °C
+
+QUICK SUMMARY FOR SLIDES
+--------------------------------------------------------------------------------
+GEV (MLE): mu=19.629, sigma=1.673, xi=-0.137
+Return levels: 10y=25.50, 20y=26.07, 50y=26.75, 100y=27.21 (°C)
+Endpoint: ≈31.82°C
+
+OUTPUT FILES
+--------------------------------------------------------------------------------
+1. Q-Q plot: qq_plot_quito_temp.png
+2. Return level plot: return_level_plot_quito_temp.png
+3. Histogram: histogram_fitted_gev_quito_temp.png
+4. Exploratory: monthly_maxima_exploratory_quito_temp.png
+
+================================================================================
+Generated: 2026-02-23 09:38:28
+City: Quito
+Variable: Temperature
+Author: Jefferson Conza
+Supervisor: Prof. Saba Infante
+================================================================================
