@@ -220,11 +220,7 @@ Planned extensions:
 
 ## 📄 Research Paper
 
-See:
-
-```
-Prediction of extreme events in climatic time series.pdf
-```
+[**Prediction of extreme events in climatic time series**](https://github.com/JeffersonConza/extreme-climate-forecasting/blob/main/Prediction%20of%20extreme%20events%20in%20climatic%20time%20series.pdf)
 
 This document describes:
 
@@ -259,3 +255,4 @@ However, if you need to download it manually:
 - **Cleaned dataset (.parquet):** https://drive.google.com/file/d/1KPWLNozyStLxfatqiwx30DEYo0bU2zuB/view?usp=sharing
 
 ---
+
