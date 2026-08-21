@@ -5,7 +5,7 @@ Extreme Value Analysis - Ecuador Climate Data
 
 DATASET INFORMATION
 --------------------------------------------------------------------------------
-Source: /content/drive/MyDrive/extreme-climate-forecasting/data/data_clima_clean.parquet
+Source: C:\Users\jconza\Downloads\extreme-climate-forecasting\data\data_clima_clean.parquet
 City: Quito
 Variable: Temperature (temp)
 Period: 1978-12-31 to 2024-10-31
@@ -52,7 +52,7 @@ OUTPUT FILES
 4. Exploratory: monthly_maxima_exploratory_quito_temp.png
 
 ================================================================================
-Generated: 2026-02-23 09:38:28
+Generated: 2026-08-21 05:15:06
 City: Quito
 Variable: Temperature
 Author: Jefferson Conza

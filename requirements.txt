@@ -3,3 +3,5 @@ pyarrow
 tqdm
 missingno
 jinja2
+ipywidgets
+jupyter
